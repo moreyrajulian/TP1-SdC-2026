@@ -99,6 +99,6 @@ En términos de **costo económico**, se utilizaron los precios actuales relevad
 |---|---|---|---|
 | Intel Core i5-13600K | 83 | $320 | 0.259 |
 | AMD Ryzen 9 5900X 12-Core | 97 | $315 | 0.308 |
-| AMD Ryzen 9 7950X 16-Core | 52 | $498 | **0.104** ✅ |
+| AMD Ryzen 9 7950X 16-Core | 52 | $498 | 0.104 |
  
 Con los precios actuales, el **Ryzen 9 7950X resulta ser la mejor opción económica** para tareas de compilación intensiva, ofreciendo el menor tiempo por dólar invertido. El Ryzen 9 5900X queda como la peor alternativa: precio similar al i5-13600K pero con rendimiento notablemente inferior, resultando en la peor relación precio/rendimiento de los tres.
